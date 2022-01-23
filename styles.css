@@ -37,6 +37,7 @@ button{
     display: flex;
     padding: 10vh;
     justify-content: space-around;
+    background-color: lavender;
     
     
     
@@ -102,12 +103,20 @@ button{
 }
 .mobile{
     display: flex;
-    text-align: center;
+    justify-content: space-between;
+    padding-top: 7vh;
     
     
 }
 .discover{
-    display:flexdD
+    display:flex;
+    justify-content: space-between;
+    background-color: yellow;
+}
+
+.checker{
+    background-color: lavender;
+
 }
 
     
