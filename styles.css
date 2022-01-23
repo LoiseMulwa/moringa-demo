@@ -1,4 +1,10 @@
-header {
-    text-align: left;
+.Pal1{
+    display: flex;
+
 }
-  
+
+
+.brand {
+    display: flex;
+
+} 
