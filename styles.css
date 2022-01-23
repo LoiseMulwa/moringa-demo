@@ -1,10 +1,62 @@
+.home{
+    padding: 10vh;
+}
 .Pal1{
     display: flex;
 
 }
 
-
 .brand {
     display: flex;
 
 } 
+nav{
+    display: flex;
+    list-style: none;
+
+   
+}
+.flright{
+    float: right;
+}
+.rain{
+    display: flex;
+}
+button{
+    background-color: #c06a1a;
+    color: white;
+    border-radius: 40px 40px 20px ;
+    height: 5vh;
+    width: 15vh;
+    border: none;
+}
+.mainburger{
+   justify-content: right;
+}
+.services{
+    display: flex;
+    padding: 10vh;
+}
+.services p{
+    font-weight: normal;
+    font-size: x-small;
+   
+}
+.serv{
+    border-color: violet;
+    border: 0.5px;
+    border-style: solid;
+    border-radius: 2px;
+    align-items: center;
+}
+
+.serv2{
+    border-color: violet;
+    border: 0.5px;
+    border-style: solid;
+    border-radius: 2px;
+    align-items: center;
+    }
+
+    
+
