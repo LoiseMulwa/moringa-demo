@@ -1,3 +1,7 @@
+
+body{
+    font-family: Poppins;
+}
 .home{
     padding: 10vh;
 }
@@ -49,7 +53,7 @@ button{
     display: flex;
     padding: 10vh;
     justify-content: space-around;
-    background-color: lavender;
+    background-color: lightcyan;
     
     
     
@@ -138,17 +142,54 @@ button{
 }
 
 .checker{
-    background-color: lavender;
+    background-color: lightcyan;
     font-size: x-large;
 
 }
 .footer{
-    text-align: center;
     display:flex;
+    justify-content: space-between;
+    font-weight: normal;
+    
 }
+.seclast{
+    display: flex;
+    align-content: center;
+    font-family:Sofia;
     
-    
-
+}
+.footerup{
+    display: flex;
+    justify-content: space-between;
+    font-weight: normal;
+    background-color: lightcyan;
+ 
+}
+    ul{
+        list-style: none;
+    }
+    #email{
+        height: 7vh;
+        width: 30vh;
+        border-color: #e6dfdf;
+        border-right: none;
+        border-radius: 5px;
+        border-width: thin;
+       
+        
+    }
+    #sub{
+        color: white;
+        background-color: #F6B400;
+        height: 7vh;
+        width: 20vh;
+        margin: 0px;
+        padding: 0%;
+        border: none;
+    }
+.site{
+    padding-top: 4vh;
+}
     
 
     
