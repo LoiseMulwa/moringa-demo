@@ -13,6 +13,7 @@
 
 .brand {
     display: flex;
+    font-family:Sofia;
     
 
 } 
@@ -138,6 +139,7 @@ button{
 
 .checker{
     background-color: lavender;
+    font-size: x-large;
 
 }
 .footer{
