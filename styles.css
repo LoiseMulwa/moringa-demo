@@ -7,31 +7,43 @@ body{
 }
 .Pal1{
     display: flex;
-    
+    justify-content: space-between;
+     float: right;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    font-size: 17px;
+   
 
 }
 .upper{
-    background-image: linear-gradient(to right, white ,yellow);
+display: flex;
+float: right;
+display: flex;
+justify-content: space-between;
+ float: right;
+list-style: none;
+display: flex;
+justify-content: space-between;
+text-decoration: none;
+font-size: 17px;
 
 }
 
 .brand {
     display: flex;
     font-family:Sofia;
-    
+    float: left;
 
 } 
-nav{
-    float: right;
-    display: flex;
-    list-style: none;
 
-   
-}
 .flright{
-    float: right;
     
-}
+   
+  }
+    
+
 .rain{
     display: flex;
 }
