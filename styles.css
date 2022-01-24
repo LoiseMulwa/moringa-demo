@@ -3,11 +3,17 @@
 }
 .Pal1{
     display: flex;
+    
+
+}
+.upper{
+    background-image: linear-gradient(to right, white ,yellow);
 
 }
 
 .brand {
     display: flex;
+    
 
 } 
 nav{
@@ -19,6 +25,7 @@ nav{
 }
 .flright{
     float: right;
+    
 }
 .rain{
     display: flex;
@@ -33,6 +40,9 @@ button{
 }
 .mainburger{
    justify-content: right;
+   background-position: left;
+   
+   
 }
 .services{
     display: flex;
@@ -84,6 +94,9 @@ button{
     justify-content: space-around;
 
     }
+    .services h3{
+        color: maroon;
+    }
     .serv3{
         border-color: violet;
         border: 0.5px;
@@ -95,7 +108,14 @@ button{
         font-size: x-small;
         box-shadow: 1px 2px 4px 2px rgb(185, 178, 178);
         border: none;
+
         }
+    .services3 h3{
+        color:maroon;
+     }
+    .services2 h3{
+        color:maroon;
+    }
 
 .menu{
     text-align:center;
@@ -120,6 +140,14 @@ button{
     background-color: lavender;
 
 }
+.footer{
+    text-align: center;
+    display:flex;
+}
+    
+    
+
+    
 
     
 
